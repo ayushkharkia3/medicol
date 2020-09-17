@@ -1,0 +1,7 @@
+.headerContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FF362E;
+    padding: 5px 20px;
+}

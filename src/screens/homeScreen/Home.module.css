@@ -1,0 +1,19 @@
+.homeContainer{
+    padding: 10px 0px;
+}
+.CardsSection{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    overflow-x: scroll;
+    max-width: fit-content;
+    margin-bottom: 10px;
+}
+.menuContainer{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 10px;
+    background-color: whitesmoke;
+}
